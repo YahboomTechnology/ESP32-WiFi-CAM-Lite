@@ -1,0 +1,4 @@
+If there is a freeze during use, it may be that the serial port power supply is insufficient. 
+You need to power the ESP32 camera separately. 
+At the same time, unplug the 5V connection between the ESP32 camera and the motherboard, and only connect the other three wires.
+如果在使用过程出现卡顿可能是串口供电不足，需要单独给esp32 摄像头供电，同时拔下ESP32 摄像头与主板的5V 接线，只连接其余三根线
